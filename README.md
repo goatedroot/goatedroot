@@ -9,7 +9,8 @@ lost count of how many CTFs i've done at this point. some i figured out cleanly,
 ## what i'm currently focused on
 
 - web exploitation — still a lot to learn here but it's what hooked me in
-- active directory — recently went down this rabbit hole and it's wild
+- active directory — attacking enterprise environments, there's always more to learn
+- reverse engineering — recently went down this rabbit hole and it's wild
 - just generally understanding how attacks work before thinking about defense
 
 ---
