@@ -2,7 +2,7 @@
 
 i'm a student who got really into cybersecurity and kind of never stopped. started doing CTFs to learn, then just kept going and now it feels fun. a lot of late nights and rabbit holes later, things are starting to make sense.
 
-132 CTFs so far + a bunch of other challenges on the side, and still going. some i figured out cleanly, a lot i just refused to quit on until something clicked. all of them taught me something.
+lost count of how many CTFs i've done at this point. some i figured out cleanly, a lot i just refused to quit on until something clicked. all of them taught me something.
 
 ---
 
