@@ -8,7 +8,7 @@ lost count of how many CTFs i've done at this point. some i figured out cleanly,
 
 ## what i'm currently focused on
 
-- web exploitation — still a lot to learn here but it's what hooked me in
+- web exploitation — my main area of expertise, where I spend most of my time
 - active directory — enterprise attacks, this stuff is genuinely insane
 - reverse engineering — recently went down this rabbit hole and it's wild
 - understanding how attacks work to know how to defend against them
