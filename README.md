@@ -17,9 +17,7 @@ lost count of how many CTFs i've done at this point. some i figured out cleanly,
 
 ## where i'm headed
 
-i want to do this professionally. ethical hacking, pentesting, maybe running my own thing eventually. i'm not there yet but i'm working on it seriously.
-
-for now i'm just focused on getting better and documenting the process publicly so it's all out there — progress, mistakes, everything.
+ethical hacking and pentesting professionally. already taking on security reviews and working toward running my own thing. building in public and sharing what i learn along the way.
 
 ---
 
