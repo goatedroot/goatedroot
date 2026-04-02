@@ -17,9 +17,9 @@ cybersecurity student. hacker by obsession. started with CTFs, moved into freela
 
 ethical hacking and pentesting professionally. already taking on security reviews and working toward running my own thing. building in public and sharing what i learn along the way.
 
-## Other Platforms
+## other platforms
 
-Twitter/X: https://x.com/goatedroot
+twitter/X: https://x.com/goatedroot
 
 ---
 
