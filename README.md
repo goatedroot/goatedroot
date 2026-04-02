@@ -1,8 +1,6 @@
 # hey, i'm goatedroot 👾
 
-i'm a student who got really into cybersecurity and kind of never stopped. started doing CTFs to learn, then just kept going and now it feels fun. a lot of late nights and rabbit holes later, things are starting to make sense.
-
-lost count of how many CTFs i've done at this point. some i figured out cleanly, a lot i just refused to quit on until something clicked. all of them taught me something.
+cybersecurity student. hacker by obsession. started with CTFs, moved into freelancing, put in the hours, fell down a lot of rabbit holes, and kept going.
 
 ---
 
@@ -18,6 +16,10 @@ lost count of how many CTFs i've done at this point. some i figured out cleanly,
 ## where i'm headed
 
 ethical hacking and pentesting professionally. already taking on security reviews and working toward running my own thing. building in public and sharing what i learn along the way.
+
+## Other Platforms
+
+Twitter/X: https://x.com/goatedroot
 
 ---
 
