@@ -7,9 +7,9 @@ cybersecurity student. hacker by obsession. started with CTFs, moved into freela
 ## what i'm currently focused on
 
 - web exploitation — my main area of expertise, where I spend most of my time
+- AI security — prompt injection, jailbreaks and LLM attack vectors
 - active directory — enterprise attacks, this stuff is genuinely insane
 - reverse engineering — recently went down this rabbit hole and it's wild
-- understanding how attacks work to know how to defend against them
 
 
 
