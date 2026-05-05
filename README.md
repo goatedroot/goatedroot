@@ -1,6 +1,6 @@
 # hey, i'm goatedroot
 
-cybersecurity student. penetration testing. just enjoy it.
+cybersecurity student. penetration tester. just enjoy it.
 
 
 ### currently
